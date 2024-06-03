@@ -91,6 +91,7 @@ header {
     border: 0;
     border-radius: 999px;
     padding: 4px;
+    display: flex;
 }
 
 .tema button div {
@@ -116,7 +117,7 @@ main h2 strong {
 }
 
 .pontuaçao {
-    background: var(--pontuaca-bg);
+    background: var(--bg-color);
     padding: 32px;
     display: flex;
     flex-direction: column;
