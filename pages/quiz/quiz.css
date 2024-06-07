@@ -51,7 +51,7 @@ header {
     padding: 16px 24px;
 }
 
-.assunto{
+.assunto {
     display: flex;
     align-items: center;
     gap: 16px;
@@ -291,7 +291,7 @@ main {
         height: 28px;
     }
 
-    .tema button div{
+    .tema button div {
         width: 20px; 
         height: 20px;
     }
@@ -342,7 +342,7 @@ main {
 
     }
 
-    .alternativa div ruby-span {
+    .alternativa div span {
         width: 56px;
         height: 56px;
         font-size: 28px;
